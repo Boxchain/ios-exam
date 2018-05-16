@@ -1,0 +1,32 @@
+{
+  "activityTitle":"Boxchain",
+  "elements":[
+    {
+      "id":"userInfoList",
+      "type":"list",
+      "data":"http://www.mocky.io/v2/5afaa6902e00005d00278ffb",
+      "fields":[
+        {
+          "id":"fullName",
+          "label":"Full Name",
+          "type":"textView"
+        },
+        {
+          "id":"age",
+          "label":"Age",
+          "type":"textView"
+        },
+        {
+          "id":"contactNo",
+          "label":"Contact No.",
+          "type":"textView"
+        },
+        {
+          "id":"email",
+          "label":"Email",
+          "type":"textView"
+        }
+      ]
+    }
+  ]
+}
