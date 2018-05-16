@@ -1,0 +1,25 @@
+{
+  "users":[
+    {
+      "id":"1",
+      "fullName":"John Doe",
+      "age":18,
+      "contactNo":"09151234567",
+      "email":"john.doe@test.com"
+    },
+    {
+      "id":"2",
+      "fullName":"Jane Doe",
+      "age":34,
+      "contactNo":"09151234333",
+      "email":"jane.doe@test.com"
+    },
+    {
+      "id":"3",
+      "fullName":"Richard Doe",
+      "age":21,
+      "contactNo":"09151233367",
+      "email":"richard.doe@test.com"
+    }
+  ]
+}
