@@ -13,9 +13,9 @@ The main goal you need to achieve is to display a list of user information. The 
 **Note**
 * Any of the user field can be empty or null, once it happened, you should hide the TextView that displays it.
 * Remember that I could interchange the position of each textview fields and the sequence must be followed.
-* data attribute in the element userInfoList is dynamic, so anytime it can be change where the user data will come from.
+* `data` attribute in the element `userInfoList` is dynamic, so anytime it can be change where the user data will come from.
 * You can just display the list item on a linear layout.
-* The id of each fields in the element userInfoList is associated with the fields of the user model. You can use this in order display the correct data for each fields.
+* The `id` of each fields in the element `userInfoList` is associated with the fields of the user model. You can use this in order display the correct data for each fields.
 
 **Sample Screen Look**
 ![](https://raw.githubusercontent.com/Boxchain/ios-exam/master/sample-screen.png)
