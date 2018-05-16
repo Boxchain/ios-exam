@@ -18,7 +18,7 @@ The main goal you need to achieve is to display a list of user information. The 
 * The `id` of each fields in the element `userInfoList` is associated with the fields of the user model. You can use this in order display the correct data for each fields.
 
 **Sample Screen Look**
-![](https://raw.githubusercontent.com/Boxchain/ios-exam/master/sample-screen.png)
+![](https://raw.githubusercontent.com/Boxchain/ios-exam/master/sample-screen.jpg)
 
 ## Submission
 * It's just an approximately 1 day to finish, as we don't want you to spend all of your time with this, but you can submit it once you're done and kindly include how many hours it took you to finish in your submission email.
